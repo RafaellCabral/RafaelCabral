@@ -1,12 +1,17 @@
-# Rafael  Cabral
- * 👀  Heeey ya! 
- * 👾  Sejam bem-vindos ao meu perfil
- * 🚀 Front-End junior 
+<h1> Rafael  Cabral
+<br>
+<hr>
+ 
+  👾  Sejam bem-vindos ao meu perfil <br>
+ 
+  🚀 Front-End junior 
  
 
 <div align="center">
   <a href="https://github.com/RafaellCabral">
-  <img height="220em"  src="https://github-readme-stats.vercel.app/api?username=RafaellCabral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=RafaellCabral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellCabral&layout=compact&langs_count=7&theme=radical"/>
+
 </div>
   
   
